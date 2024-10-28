@@ -1,0 +1,31 @@
+body{
+  background-color: #fbfbfe;
+   color:#2f27ce ;
+}
+body h1,h2,h3{
+  color: #171522;
+}
+
+.navigation{
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+ 
+}
+.hero-Heading{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.footer{
+  color: #fbfbfe ;
+  background-color:#dedcff;
+}
